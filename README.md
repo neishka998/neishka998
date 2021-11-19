@@ -2,7 +2,8 @@
  
  I am ...
  
- 
+ ![Neishka Srivastava](https://user-images.githubusercontent.com/60430260/142646412-7716edcc-ba29-4176-8908-1d971b5b79fb.gif)
+
  I am pursuing my Masters in Big Data Science from Queen Mary University of London and looking for a full time position as an ML Engineer. I am passionate about coding and love to learn new technologies & skills. I also like to draw, paint & create handmade cards which just helps me relax. 
 
 
