@@ -1,4 +1,4 @@
- Hey !! 👋
+ # Hey !! 👋
  
  I am ...
  
@@ -14,9 +14,12 @@ My previous projects revolved around solving classification & segmentation probl
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-Let's Connect !!
+### ☕️ Let's Connect !! 
 
 Feel free to drop me an email in case of any question regarding projects or experience. I would be happy to help!
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/neickz//)  
 
 
 <!---
