@@ -6,12 +6,18 @@
  <h3 align="left"> <i> Languages and Tools : </i> </h4>
 <p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="30" height="30"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="30" height="30"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="30" height="30"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="30" height="30"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30" height="30"/> </a> </p>
 
-## *QUICK INTRO*
+## *WHO AM I ?*
+Just finished my masters in Big Data Science from Queen Mary Univeriosty of Lonodn. 
+Did my undergrad in Computer Science in 2020. 
+Worked as a Machine Learning Engineer at Absolar, UK , SDE Intern at Adobe & Times of India and was a visiting scholar as Georgia Institute of Technology. 
+
 💫 Pursuing my Masters in Big Data Science from Queen Mary University of London
 
 💫 Looking for full-time role as an Machine Learning Engineer
 
-## *PROJECTS*
+## *LOOK WHAT I BUILD*
+
+
  
  🔭 I’m currently working on **MSc Dissertation Build a content-based recommendation system from scratch that recommends ideal candidates based on their skills for a particular job description.** 
  
