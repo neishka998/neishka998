@@ -1,6 +1,6 @@
  # Hey !! 👋
  
-<img src="https://user-images.githubusercontent.com/60430260/143273510-db1d91dd-9796-429d-9cf9-b27973f58dbf.gif" width= "950">
+<img src="https://user-images.githubusercontent.com/60430260/143273510-db1d91dd-9796-429d-9cf9-b27973f58dbf.gif" width= "750">
 
  
  <h3 align="left"> <i> Languages and Tools : </i> </h4>
